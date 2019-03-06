@@ -5,7 +5,7 @@ npm install
 
 # Start dev server
 ```
-gulp serve
+npm run dev
 ```
 
 # Credits
