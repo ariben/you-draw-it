@@ -28,6 +28,7 @@ d3.selectAll('.you-draw-it').each(function() {
   ];
 
   // position for starting to draw
+  // TODO: make this position configurable in .yml/data file
   // const medianYear = periods[periods.length - 4].year;
   const medianYear = 2005;
 
